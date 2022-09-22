@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './components/Header';
+import Button from './components/Button/style';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 const App = () => {
@@ -11,3 +12,4 @@ const App = () => {
 }
 
 export default App;
+

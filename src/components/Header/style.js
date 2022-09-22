@@ -18,7 +18,6 @@ export const NavLogo = styled.div`
     max-height: 40px;
     border: 10px;
     border-color: black;
-
 `
 
 export const NavMenu = styled.div`
@@ -28,16 +27,13 @@ export const NavMenu = styled.div`
     align-items: center;
     justify-content: space-between;
     font-size: 30px;
-
 `
 
 export const Input = styled.input`
-
     border-radius: 20px;
     width: 15rem;
     height: 2rem;
     padding: 10px;
     border-color: white;
     border: 1px;
-
 `

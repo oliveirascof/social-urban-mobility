@@ -2,7 +2,7 @@ Creating project
 ### npm install vite@lastest "name-of-project"
 
 Access the project
-### cd "nome-do-projeto"
+### cd "name-of-project"
 ### npm install
 ### npm run dev
 
